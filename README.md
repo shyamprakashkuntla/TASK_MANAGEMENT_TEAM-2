@@ -8,8 +8,7 @@ This is a collaborative project developed by Team 2 to build a full-featured **T
 ---
 
 ## 👥 Team Members (Contributors)
-- **Shyam** – Category B  
-- **Banodhay** – Category C  
+- **Shyam** – Category B,C 
 - **Tarun** – Category A  
 
 ---
@@ -28,8 +27,6 @@ This is a collaborative project developed by Team 2 to build a full-featured **T
   - Change Password
 - Clients
 - Allocation
-
-### 🔹 Category C – Banodhay
 - Authentication
   - Reset Password
 - Projects
