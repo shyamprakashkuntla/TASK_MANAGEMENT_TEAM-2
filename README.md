@@ -1,5 +1,5 @@
 # TASK_MANAGEMENT_TEAM-2
-Task Management System by Team 2 — A collaborative backend project covering modules like Authentication, Projects, Clients, Tasks, and Reporting. Contributors: Shyam, Banodhay, Tarun.
+Task Management System by Team 2 — A collaborative backend project covering modules like Authentication, Projects, Clients, Tasks, and Reporting. Contributors: Shyam,Tarun.
 
 # 🗂️ Task Management System – Team 2
 
@@ -8,8 +8,7 @@ This is a collaborative project developed by Team 2 to build a full-featured **T
 ---
 
 ## 👥 Team Members (Contributors)
-- **Shyam** – Category B  
-- **Banodhay** – Category C  
+- **Shyam** – Category B,C 
 - **Tarun** – Category A  
 
 ---
@@ -28,8 +27,6 @@ This is a collaborative project developed by Team 2 to build a full-featured **T
   - Change Password
 - Clients
 - Allocation
-
-### 🔹 Category C – Banodhay
 - Authentication
   - Reset Password
 - Projects
