@@ -52,7 +52,6 @@ All contributors are responsible for implementing and maintaining **Reports** mo
 ## 📁 Database Design
 Each team member is expected to create the database as per the shared document and ensure consistency across modules.
 
----
 
 ## 🚀 Getting Started
 1. Clone the repo
